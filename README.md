@@ -18,3 +18,8 @@ I thought I would introduce the tech stack since this project will require many 
 AWS (ec2 and s3): I know the professor mentioned Digital Ocean. After some research, I found a couple of problems with Digital Ocean. First, it does not support dynamic applications for free. This means someone must pay to host the python backend API. I rather move to a slightly more complicated platform than deal with money issues. AWS free tier allows acceptable free usage of EC2 which should be enough for this application. Second, Digital Ocean's file storage capacity is not very well documented. Compared to S3 (Amazon's storage solution), which is much better documented and with more existing libraries, Digital Ocean seems like a subpar choice. AWS might be jarring but it's not that difficult to learn as long as you don't mess with things you don't need.
 
 Python Flask: I don't know Django, probably should learn it. With that being said, Django is heavy and overkill for our simple python API. I've already done most Flask-orientated things in the structure, but some basic understanding of how Flask works and how to use it can go a long way.
+
+### Contact
+Interested and what to learn more? 
+Here is my email: hx801@nyu.edu
+Or search my name and dm in slack: Haoran Xu
